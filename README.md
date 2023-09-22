@@ -34,9 +34,11 @@ This project incorporates the following programming concepts and technologies:
 
 ## How to Run
 
-1. Clone this repository to your computer.
-2. Navigate to the directory where the repository was cloned.
-3. Run the JAR file: `java -jar todo-list.jar`
+1. Ensure you have the Java JDK installed on your machine.
+2. Clone this repository: `git clone https://github.com/renatolec/todolist.git`
+3. Navigate to the project directory: `cd todolist/src`
+4. Compile the source code: `javac Todolist.java`
+5. Run the program: `java Todolist`
 
 ## Conclusion
 
